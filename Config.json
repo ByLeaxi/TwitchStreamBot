@@ -1,0 +1,6 @@
+{
+    "url": "https://www.twitch.tv/ByLeaxi",
+	"num_processes": 1,
+	"min_wait_time": 100,
+    "max_wait_time": 1000
+}
