@@ -1,3 +1,7 @@
+# Tanıtım 
+
+www.youtube.com/watch?v=1vRy47xqns4
+
 Twitch Stream bot 
 Bot Şuanda Sadece Windows Cihazlarda Çalışıyor
 
